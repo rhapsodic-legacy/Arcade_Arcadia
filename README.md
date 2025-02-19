@@ -13,7 +13,7 @@ The inaugural project in this collection is Space Invaders, a timeless arcade cl
 Stay tuned as we expand this repo with more iconic games from the arcade and Atari era, each building on the last to deepen your coding expertise!
 
 ### Getting Started
-Clone this repo: git clone https://github.com/yourusername/arcade-atari-experiences.git
+Clone this repo: git clone [https://github.com/rhapsodic-legacy/Arcade_Arcadia.git]
 Follow the instructions in each project folder to set up and run the games.
 Dive into the code, tweak it, and make it your own!
 Contributions are welcome—whether it’s adding new games, improving existing ones, or suggesting teaching tweaks for beginners. Let’s keep the retro spirit alive while teaching the next generation of coders!
