@@ -16,6 +16,10 @@ The next adventure in this arcade collection is Asteroids, a dynamic space shoot
 #### Third Project: Breakout
 Step up to Breakout, the wall-smashing classic that turns precision into power. Ideal for coders who’ve tackled Space Invaders and Asteroids, this project challenges you to bounce a ball with a paddle, shatter bricks, and keep the action alive. It blends familiar mechanics—collision detection and input handling—with new twists like ball angles and (to be added) level progression. Simple to start yet rich with potential for polish (power-ups, multi-ball!), Breakout is a perfect bridge to more complex game design, all wrapped in that Atari-era charm.
 
+#### Fourth Project: Pong + Breakout Remix
+Get ready for Pong + Breakout Remix, a clever mashup that blends the paddle-bouncing simplicity of Pong with the brick-busting excitement of Breakout! This project is perfect for junior coders who’ve tackled earlier challenges and want to explore object-oriented programming (OOP) with a twist. You’ll control a paddle to keep a ball in play against an AI opponent, smashing colorful gradient bricks that multiply with every score. It’s a great way to level up your skills with classes, collision detection, and basic AI logic, plus a dash of sound design—all wrapped in a retro arcade vibe. Simple to grasp yet endlessly tweakable (think speed boosts or power-ups!), this hybrid classic shows how foundational coding can turn into a polished, nostalgic gem.
+
+
 Stay tuned as we expand this repo with more iconic games from the arcade and Atari era, each building on the last to deepen your coding expertise!
 
 ### Getting Started
