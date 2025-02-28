@@ -1,7 +1,8 @@
 
 Space Invaders
 
-Welcome to the Space Invaders project! This game brings the classic arcade experience of blasting alien invaders from your spaceship, complete with retro beeps and colorful enemies. It’s part of a set of educational coding projects designed to make learning Python fun and engaging. If you’re new to programming or building on basic skills, this is a great way to explore game development while picking up key concepts like loops, conditionals, and list management. You’ll control a spaceship, shoot bullets, dodge enemy fire, and level up—all while coding like a pro. Let’s dive into how it works!
+Welcome to the Space Invaders project! This game brings the classic arcade experience of blasting alien invaders from your spaceship, complete with retro beeps and colorful enemies.
+It’s part of a set of educational coding projects designed to make learning Python fun and engaging. If you’re new to programming or building on basic skills, this is a great way to explore game development while picking up key concepts like loops, conditionals, and list management. You’ll control a spaceship, shoot bullets, dodge enemy fire, and level up—all while coding like a pro. Let’s dive into how it works!
 
 
 How to Run the Game
