@@ -19,6 +19,9 @@ Step up to Breakout, the wall-smashing classic that turns precision into power. 
 #### Fourth Project: Pong + Breakout Remix
 Get ready for Pong + Breakout Remix, a clever mashup that blends the paddle-bouncing simplicity of Pong with the brick-busting excitement of Breakout! This project is perfect for junior coders who’ve tackled earlier challenges and want to explore object-oriented programming (OOP) with a twist. You’ll control a paddle to keep a ball in play against an AI opponent, smashing colorful gradient bricks that multiply with every score. It’s a great way to level up your skills with classes, collision detection, and basic AI logic, plus a dash of sound design—all wrapped in a retro arcade vibe. Simple to grasp yet endlessly tweakable (think speed boosts or power-ups!), this hybrid classic shows how foundational coding can turn into a polished, nostalgic gem.
 
+#### Fifth Project: Tetris Remix
+Dive into Tetris Remix, the block-stacking legend that’s all about strategy, timing, and tidy code! Perfect for junior programmers who’ve tackled the earlier projects, this challenge has you dropping Tetriminos, rotating shapes, and clearing lines like a pro. It’s a hands-on way to master key Python concepts: lists (think grids and shapes), loops (for falling and clearing), and functions (for reusable actions like moving and rotating). Add in custom beeps and a retro soundtrack for that arcade vibe, and you’ve got a project that’s simple to start but endlessly tweakable—think ghost pieces or speed ramps! As the capstone to your arcade journey, Tetris Remix transforms foundational skills into a polished, addictive classic. Stack, clear, and code your way to Tetris mastery!
+
 
 Stay tuned as we expand this repo with more iconic games from the arcade and Atari era, each building on the last to deepen your coding expertise!
 
