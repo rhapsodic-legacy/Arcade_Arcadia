@@ -71,7 +71,7 @@ numpy turns this into a sound wave, and pygame plays it in stereo (two channels 
 
 Sounds Used: A beep for moving (440 Hz), a higher one for rotating (523 Hz), a thud for landing (261 Hz), a chime for clearing lines (659 Hz), and a low tone for game over (196 Hz).
 
-Music: Loads Tetris_remix.wav and loops it at 50% volume. Note!! The Tetris_remix.wav file is too large for upload, so lines 62-64 will need to be commented out. Alternatively you can download any .wav file to your system and rename it 'Tetris_remix.wav', and place this file in the tetris folder. 
+Music: Loads Tetris_remix.wav and loops it at 50% volume. Note!! The Tetris_remix.wav file is too large for upload, so lines 55-57 will need to be commented out. Alternatively you can download any .wav file to your system and rename it 'Tetris_remix.wav', and place this file in the tetris folder. 
 
 3. Game Objects
 
