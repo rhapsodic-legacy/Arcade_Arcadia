@@ -4,7 +4,7 @@ The goal of this repo is to provide a practical, project-based learning path for
 
 ### Why This Repo?    
 Learn by Doing: Each game introduces key coding concepts through real-world application.  
-Retro Fun: Relive the classics while mastering modern programming skills.     
+Retro Fun: Relive the classics while mastering modern programming skills.      
 Scalable Difficulty: Projects start simple and grow in complexity, perfect for leveling up your skills.     
             
 #### First Project: Space Invaders      
