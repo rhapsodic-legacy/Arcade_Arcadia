@@ -12,7 +12,7 @@ The inaugural project in this collection is Space Invaders, a timeless arcade cl
       
 #### Second Project: Asteroids   
 The next adventure in this arcade collection is Asteroids, a dynamic space shooter that builds on the foundations laid by Space Invaders. Perfect for high school grads ready to level up, this project swaps static waves for free-floating chaos—navigate a rotating spaceship, blast jagged asteroids, and master momentum in a wraparound universe. It dives deeper into coding concepts like vector movement, trigonometry for rotation, and dynamic object management, all while delivering that addictive Atari-era thrill. With power-ups, lives, and hyperspace jumps, it’s a stellar showcase of how basic skills can evolve into a polished, engaging game.     
-
+ 
 #### Third Project: Breakout 
 Step up to Breakout, the wall-smashing classic that turns precision into power. Ideal for coders who’ve tackled Space Invaders and Asteroids, this project challenges you to bounce a ball with a paddle, shatter bricks, and keep the action alive. It blends familiar mechanics—collision detection and input handling—with new twists like ball angles and (to be added) level progression. Simple to start yet rich with potential for polish (power-ups, multi-ball!), Breakout is a perfect bridge to more complex game design, all wrapped in that Atari-era charm. 
 
