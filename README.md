@@ -7,7 +7,7 @@ Learn by Doing: Each game introduces key coding concepts through real-world appl
 Retro Fun: Relive the classics while mastering modern programming skills.        
 Scalable Difficulty: Projects start simple and grow in complexity, perfect for leveling up your skills.        
              
-#### First Project: Space Invaders      
+#### First Project: Space Invaders       
 The inaugural project in this collection is Space Invaders, a timeless arcade classic that’s the perfect entry point for budding programmers. With its straightforward mechanics—move a spaceship, shoot aliens, and dodge enemy fire—it’s an ideal challenge for a high school graduate or anyone new to coding. This project introduces essential concepts like user input handling, basic collision detection, and game loops, all while keeping the scope manageable and the fun factor high.     
             
 #### Second Project: Asteroids     
