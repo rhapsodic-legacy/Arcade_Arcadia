@@ -1,4 +1,4 @@
-# Arcade & Atari Era Experiences    
+# Arcade & Atari Era Experiences     
  Welcome to the Arcade & Atari Era Experiences repository! This project is a collection of classic games inspired by the golden age of arcade and Atari gaming, designed as hands-on coding projects to teach fundamental programming principles to junior-level programmers. Each game is crafted to be both educational and engaging, breaking down complex concepts like loops, conditionals, object-oriented programming, and event handling into digestible, fun challenges.
 The goal of this repo is to provide a practical, project-based learning path for beginners—think of it as a "code-and-play" curriculum. Whether you're a high school student, a coding bootcamp participant, or someone just starting out, these projects will help you build a strong foundation in programming while recreating the nostalgia of retro gaming.
 
